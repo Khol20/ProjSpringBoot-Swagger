@@ -43,7 +43,8 @@ L'API de cette application est documentée avec Swagger. Une fois l'application 
 
  2.Documentation (quelques exemples): 
  - profile-controller :
-   <img width="908" alt="image" src="https://github.com/Khol20/ProjSpringBoot-Swagger/assets/147450314/cf7342ae-6c81-4269-b8bf-572252207acd">
+  <img width="898" alt="image" src="https://github.com/Khol20/ProjSpringBoot-Swagger/assets/147450314/ce929b2a-69a3-471f-bd67-9d766f354109">
+
 - gestion des étudiants :
   <img width="899" alt="image" src="https://github.com/Khol20/ProjSpringBoot-Swagger/assets/147450314/40262afb-ed9c-4ce6-8802-fbc21e60d6f5">
 - gestion des filières :
