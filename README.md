@@ -26,8 +26,7 @@ Base de données : MySQL.
 2.Affecter des rôles spécifiques à des étudiants.
 
 # Installation et Configuration
-1.Cloner le dépôt GitHub :
-git clone https://github.com/votre-utilisateur/projet-gestion-etudiants.git
+1.Cloner le dépôt GitHub 
 2.Configurer la base de données en éditant le fichier application.properties pour définir les paramètres de connexion.
 3.Exécuter l'application en utilisant Maven ou votre IDE préféré.
 
