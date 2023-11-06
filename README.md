@@ -77,7 +77,8 @@ L'API de cette application est documentée avec Swagger. Une fois l'application 
 - Suppression d'un role :
   <img width="957" alt="image" src="https://github.com/Khol20/ProjSpringBoot-Swagger/assets/147450314/f7f0fec1-fe39-47e0-ad2b-1b53b0691104">
   <img width="950" alt="image" src="https://github.com/Khol20/ProjSpringBoot-Swagger/assets/147450314/f3fb7d4c-8000-4c61-8284-c424d370d0da">
-  -Ajout d'un etudiant :
+ 
+  
   
 
 
