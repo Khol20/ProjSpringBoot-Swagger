@@ -76,6 +76,31 @@ L'API de cette application est documentée avec Swagger. Une fois l'application 
 - Suppression d'un role :
   <img width="957" alt="image" src="https://github.com/Khol20/ProjSpringBoot-Swagger/assets/147450314/f7f0fec1-fe39-47e0-ad2b-1b53b0691104">
   <img width="950" alt="image" src="https://github.com/Khol20/ProjSpringBoot-Swagger/assets/147450314/f3fb7d4c-8000-4c61-8284-c424d370d0da">
+
+- Ajout de deux utilisateurs :
+  <img width="914" alt="image" src="https://github.com/Khol20/ProjSpringBoot-Swagger/assets/147450314/849024ef-e5b0-4604-8bd2-90db651ee07e">
+- Ajut d'un etudiant :
+  <img width="960" alt="image" src="https://github.com/Khol20/ProjSpringBoot-Swagger/assets/147450314/873bb13b-cadd-4fa9-ab36-59a2be7108be">
+<img width="956" alt="image" src="https://github.com/Khol20/ProjSpringBoot-Swagger/assets/147450314/e32f9569-72ba-4326-aeb1-e313df32cc98">
+- Modificication d'un etudiant :
+  <img width="958" alt="image" src="https://github.com/Khol20/ProjSpringBoot-Swagger/assets/147450314/522aa6fc-f33b-41d8-a17b-db0419496b6b">
+- Affichage des etudiants :
+  <img width="958" alt="image" src="https://github.com/Khol20/ProjSpringBoot-Swagger/assets/147450314/e46d1baf-062a-48b2-a6ab-679754daf90d">
+-Supression d'un etudiant :
+<img width="952" alt="image" src="https://github.com/Khol20/ProjSpringBoot-Swagger/assets/147450314/8eb5830a-006b-4add-93ae-73e2804b6081">
+<img width="954" alt="image" src="https://github.com/Khol20/ProjSpringBoot-Swagger/assets/147450314/f6ed62f4-2e23-47a4-a588-c3ae8a84cea0">
+- Affichage par filiere isic :
+  <img width="959" alt="image" src="https://github.com/Khol20/ProjSpringBoot-Swagger/assets/147450314/ffe0ce0b-1e12-49e9-afff-4bb958aace5b">
+
+
+
+
+ 
+
+  
+
+
+
  
   
   
